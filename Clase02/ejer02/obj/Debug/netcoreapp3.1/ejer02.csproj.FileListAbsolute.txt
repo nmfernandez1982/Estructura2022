@@ -1,0 +1,13 @@
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.exe
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.deps.json
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.runtimeconfig.json
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.runtimeconfig.dev.json
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.dll
+C:\Estructura2022_1\Clase02\ejer02\bin\Debug\netcoreapp3.1\ejer02.pdb
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.csprojAssemblyReference.cache
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.AssemblyInfoInputs.cache
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.AssemblyInfo.cs
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.csproj.CoreCompileInputs.cache
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.dll
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.pdb
+C:\Estructura2022_1\Clase02\ejer02\obj\Debug\netcoreapp3.1\ejer02.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.exe
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.deps.json
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.runtimeconfig.json
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.runtimeconfig.dev.json
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.dll
+C:\Estructura2022_1\Clase01\bin\Debug\netcoreapp3.1\Clase01.pdb
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.csprojAssemblyReference.cache
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.AssemblyInfoInputs.cache
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.AssemblyInfo.cs
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.csproj.CoreCompileInputs.cache
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.dll
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.pdb
+C:\Estructura2022_1\Clase01\obj\Debug\netcoreapp3.1\Clase01.genruntimeconfig.cache
