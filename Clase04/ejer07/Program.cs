@@ -20,10 +20,10 @@ namespace ejer07
             }
 
 
-            
+
             foreach(String dato in arra2d)
             {
-                Console.WriteLine(dato);
+                Console.Write(dato);
             }
 
 
