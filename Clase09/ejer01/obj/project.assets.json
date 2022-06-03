@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj",
+      "projectUniqueName": "C:\\Valen\\Estructura2022_1\\Clase09\\ejer01\\ejer01.csproj",
       "projectName": "ejer01",
-      "projectPath": "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj",
+      "projectPath": "C:\\Valen\\Estructura2022_1\\Clase09\\ejer01\\ejer01.csproj",
       "packagesPath": "C:\\Users\\nfernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\valen\\estructura2022_1\\ejer01\\obj\\",
+      "outputPath": "C:\\Valen\\Estructura2022_1\\Clase09\\ejer01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nfernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"

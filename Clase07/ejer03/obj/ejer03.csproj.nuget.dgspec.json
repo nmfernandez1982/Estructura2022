@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj": {}
+    "C:\\Valen\\Estructura2022_1\\Clase07\\ejer03\\ejer03.csproj": {}
   },
   "projects": {
-    "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj": {
+    "C:\\Valen\\Estructura2022_1\\Clase07\\ejer03\\ejer03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj",
-        "projectName": "ejer01",
-        "projectPath": "C:\\valen\\estructura2022_1\\ejer01\\ejer01.csproj",
+        "projectUniqueName": "C:\\Valen\\Estructura2022_1\\Clase07\\ejer03\\ejer03.csproj",
+        "projectName": "ejer03",
+        "projectPath": "C:\\Valen\\Estructura2022_1\\Clase07\\ejer03\\ejer03.csproj",
         "packagesPath": "C:\\Users\\nfernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\valen\\estructura2022_1\\ejer01\\obj\\",
+        "outputPath": "C:\\Valen\\Estructura2022_1\\Clase07\\ejer03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nfernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
