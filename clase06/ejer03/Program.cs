@@ -24,9 +24,6 @@ namespace ejer03
             numeros.Dequeue();
             */
 
-
-
-
             do{
                 Console.Clear();                
                 opcion=menu();

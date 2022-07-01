@@ -9,16 +9,25 @@ namespace ejer01
     {
         static void Main(string[] args)
         {
-          List<string> Paises=new List<string>()
+          List<int> Paises=new List<int>()
           {
-              "Argentina",
-              "Chile",
-              "Uruguay",
-              "Paraguay",
-              "Brasil",
-              "Bolivia"
+              34,
+              2,
+              6,
+              107,
+              55,
+              44
           };
 
+            int aux=1;
+          for(int x=0;x<Paises.Count;x++)
+          {
+            aux=Paises[x];
+          }
+
+          Console.WriteLine(aux);
+
+            /*
             //metodos 
             Paises.Add("Colombia");   
 
@@ -55,7 +64,7 @@ namespace ejer01
             Paises.IndexOf("Colombia");
 
             
-            
+            */
             
 
 
